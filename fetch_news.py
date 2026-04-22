@@ -55,7 +55,11 @@ output = {
     "labor": format_items(deduplicate(labor_news))
 }
  
-with open("news.json", "w", encoding="utf-8") as f:
+# Result/news 폴더 생성
+os.makedirs("Result/news", exist_ok=True)
+ 
+with open("Result/news/news.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
  
 print(f"완료: {output['updated_at']}")
+print(f"저장 경로: Result/news/news.json")

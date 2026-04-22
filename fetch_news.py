@@ -33,9 +33,12 @@ def deduplicate(items):
             result.append(item)
     return result
  
-all_news = fetch_news("임금체불", 20)
-chebul_news = fetch_news("임금체불 사업장", 10)
-labor_news = fetch_news("노동법 근로기준법", 10)
+def format_date(date_str):
+    try:
+        dt = datetime.strptime(date_str, "%a, %d %b %Y %H:%M:%S %z")
+        return dt.strftime("%Y.%m.%d")
+    except:
+        return date_str
  
 def format_items(items):
     result = []
@@ -44,22 +47,28 @@ def format_items(items):
             "title": clean(item.get("title", "")),
             "url": item.get("link", ""),
             "source": item.get("originallink", ""),
-            "date": item.get("pubDate", "")
+            "date": format_date(item.get("pubDate", ""))
         })
     return result
  
+all_news = fetch_news("임금체불", 20)
+chebul_news = fetch_news("임금체불 사업장", 10)
+labor_news = fetch_news("노동법 근로기준법", 10)
+ 
+now = datetime.now()
+updated_at = now.strftime("%Y.%m.%d %H:%M")
+ 
 output = {
-    "updated_at": datetime.now().strftime("%Y.%m.%d %H:%M"),
+    "updated_at": updated_at,
     "all": format_items(deduplicate(all_news)),
     "chebul": format_items(deduplicate(chebul_news)),
     "labor": format_items(deduplicate(labor_news))
 }
  
-# Result/news 폴더 생성
 os.makedirs("Result/news", exist_ok=True)
  
 with open("Result/news/news.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
  
-print(f"완료: {output['updated_at']}")
+print(f"완료: {updated_at}")
 print(f"저장 경로: Result/news/news.json")

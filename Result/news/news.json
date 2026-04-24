@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026.04.24 09:28",
+  "updated_at": "2026.04.24 13:17",
   "all": [
+    {
+      "title": "양구 계절근로자 임금체불 2차 진정 제기돼",
+      "url": "https://chmbc.co.kr/article/Cfsl2RNbstVIjqJoP7w0",
+      "source": "https://chmbc.co.kr/article/Cfsl2RNbstVIjqJoP7w0",
+      "date": "2026.04.24"
+    },
+    {
+      "title": "올 상반기 외국인 계절근로자 9만명 배정",
+      "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=403704",
+      "source": "https://www.agrinet.co.kr/news/articleView.html?idxno=403704",
+      "date": "2026.04.24"
+    },
+    {
+      "title": "직원 임금 3300만원 체불 후 잠적한 50대 업주 체포",
+      "url": "https://n.news.naver.com/mnews/article/023/0003972909?sid=102",
+      "source": "https://www.chosun.com/national/incident/2026/04/24/BR3RY57XHNHAPMRFRNHYIMHNE4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "date": "2026.04.24"
+    },
+    {
+      "title": "임금·퇴직금 3천만원 체불 뒤 잠적…50대 사업주 검거",
+      "url": "https://n.news.naver.com/mnews/article/666/0000104656?sid=102",
+      "source": "https://www.kyeonggi.com/article/20260424580383",
+      "date": "2026.04.24"
+    },
+    {
+      "title": "인천서 근로자 5명 임금 3300만원 체불한 50대 체포",
+      "url": "https://n.news.naver.com/mnews/article/421/0008910709?sid=102",
+      "source": "https://www.news1.kr/local/incheon/6148482",
+      "date": "2026.04.24"
+    },
     {
       "title": "출석요구 10차례 불응…3천만원 임금체불 사업주 체포",
       "url": "https://n.news.naver.com/mnews/article/001/0016041841?sid=102",
@@ -14,7 +44,7 @@
       "date": "2026.04.24"
     },
     {
-      "title": "親노동 입법 2탄, 3탄 대기중 … 이번엔 '근로자 추정제' 온다",
+      "title": "노동 입법 2탄, 3탄 대기중 … 이번엔 '근로자 추정제' 온다",
       "url": "https://n.news.naver.com/mnews/article/009/0005671127?sid=101",
       "source": "https://www.mk.co.kr/article/12026807",
       "date": "2026.04.24"
@@ -90,39 +120,27 @@
       "url": "https://www.gosiweek.com/article/1065576495412710",
       "source": "https://www.gosiweek.com/article/1065576495412710",
       "date": "2026.04.24"
-    },
-    {
-      "title": "[Biz&Law] 진원생명과학, 美 전직 임원 임금체불·약속어음 미이행 피소",
-      "url": "http://www.seoulwire.com/news/articleView.html?idxno=718526",
-      "source": "http://www.seoulwire.com/news/articleView.html?idxno=718526",
-      "date": "2026.04.24"
-    },
-    {
-      "title": "우리마트 회생절차 본격…양산유통센터 정상화 '총력전'",
-      "url": "http://www.yangsanilbo.com/news/articleView.html?idxno=124412",
-      "source": "http://www.yangsanilbo.com/news/articleView.html?idxno=124412",
-      "date": "2026.04.24"
-    },
-    {
-      "title": "[매일 2명씩 목숨 잃는데] 국회 노동안전 관련법 개정 또 무산",
-      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=233978",
-      "source": "https://www.labortoday.co.kr/news/articleView.html?idxno=233978",
-      "date": "2026.04.24"
-    },
-    {
-      "title": "양산농산물유통센터 등 600명 임금체불 긴급 점검 착수",
-      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=573887",
-      "source": "https://www.ulsanpress.net/news/articleView.html?idxno=573887",
-      "date": "2026.04.23"
-    },
-    {
-      "title": "“기댈 곳 없는 프리랜서…권익보호 도움 드려요”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003441832?sid=102",
-      "source": "https://www.khan.co.kr/article/202604232133005",
-      "date": "2026.04.23"
     }
   ],
   "chebul": [
+    {
+      "title": "올 상반기 외국인 계절근로자 9만명 배정",
+      "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=403704",
+      "source": "https://www.agrinet.co.kr/news/articleView.html?idxno=403704",
+      "date": "2026.04.24"
+    },
+    {
+      "title": "임금·퇴직금 3천만원 체불 뒤 잠적…50대 사업주 검거",
+      "url": "https://n.news.naver.com/mnews/article/666/0000104656?sid=102",
+      "source": "https://www.kyeonggi.com/article/20260424580383",
+      "date": "2026.04.24"
+    },
+    {
+      "title": "인천서 근로자 5명 임금 3300만원 체불한 50대 체포",
+      "url": "https://n.news.naver.com/mnews/article/421/0008910709?sid=102",
+      "source": "https://www.news1.kr/local/incheon/6148482",
+      "date": "2026.04.24"
+    },
     {
       "title": "출석요구 10차례 불응…3천만원 임금체불 사업주 체포",
       "url": "https://n.news.naver.com/mnews/article/001/0016041841?sid=102",
@@ -163,24 +181,6 @@
       "title": "양산농산물유통센터 등 600명 임금체불 긴급 점검 착수",
       "url": "https://www.ulsanpress.net/news/articleView.html?idxno=573887",
       "source": "https://www.ulsanpress.net/news/articleView.html?idxno=573887",
-      "date": "2026.04.23"
-    },
-    {
-      "title": "‘노동감독관 8천명’ 맞춰…정부, ‘실전형’ 교육체계로 전면 개편",
-      "url": "https://n.news.naver.com/mnews/article/028/0002802185?sid=102",
-      "source": "https://www.hani.co.kr/arti/society/labor/1255646.html",
-      "date": "2026.04.23"
-    },
-    {
-      "title": "외국인 노동자 인권개선 회의…\"근로조건 위반 뿌리 뽑자\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016039767?sid=100",
-      "source": "https://www.yna.co.kr/view/AKR20260423177700001?input=1195m",
-      "date": "2026.04.23"
-    },
-    {
-      "title": "정부, 이주노동자 사업장 변경 요건 재검토…계절근로자 전문기관 운영",
-      "url": "https://www.newspim.com/news/view/20260423001365",
-      "source": "https://www.newspim.com/news/view/20260423001365",
       "date": "2026.04.23"
     }
   ],

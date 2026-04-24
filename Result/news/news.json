@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026.04.24 13:17",
+  "updated_at": "2026.04.24 16:55",
   "all": [
     {
       "title": "양구 계절근로자 임금체불 2차 진정 제기돼",
@@ -62,15 +62,15 @@
       "date": "2026.04.24"
     },
     {
-      "title": "[거침없이 연극리뷰] 기괴하지만 낯설지 않고 웃기면서 씁쓸한 이유...극...",
-      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=123199",
-      "source": "http://www.dailysmart.co.kr/news/articleView.html?idxno=123199",
-      "date": "2026.04.24"
-    },
-    {
       "title": "부산 동구, 지역 건설업체 활성화 위한 상생 협력 강화",
       "url": "http://www.ikld.kr/news/articleView.html?idxno=333490",
       "source": "http://www.ikld.kr/news/articleView.html?idxno=333490",
+      "date": "2026.04.24"
+    },
+    {
+      "title": "[거침없이 연극리뷰] 기괴하지만 낯설지 않고 웃기면서 씁쓸한 이유...극...",
+      "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=123199",
+      "source": "http://www.dailysmart.co.kr/news/articleView.html?idxno=123199",
       "date": "2026.04.24"
     },
     {
@@ -186,6 +186,12 @@
   ],
   "labor": [
     {
+      "title": "[사설] 일터기본법·근로자추정제, 기업엔 ‘엎친 데 덮친 격’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004614516?sid=110",
+      "source": "https://www.sedaily.com/article/20036937?ref=naver",
+      "date": "2026.04.25"
+    },
+    {
       "title": "[이슈] 자영업과 노동자 사이… 화물 기사 '법적 사각지대' 마침표 찍나",
       "url": "https://www.polinews.co.kr/news/articleView.html?idxno=729449",
       "source": "https://www.polinews.co.kr/news/articleView.html?idxno=729449",
@@ -238,12 +244,6 @@
       "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=233972",
       "source": "https://www.labortoday.co.kr/news/articleView.html?idxno=233972",
       "date": "2026.04.23"
-    },
-    {
-      "title": "[정동칼럼]이상한 나라의 노동자",
-      "url": "https://n.news.naver.com/mnews/article/032/0003441506?sid=110",
-      "source": "https://www.khan.co.kr/article/202604222013005",
-      "date": "2026.04.22"
     }
   ]
 }
